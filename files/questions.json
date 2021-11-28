@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "question": "test",
+    "answers": ["test", "correct answer", "test", "test"],
+    "correctAnswer": 1
+  }
+]
